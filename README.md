@@ -2,6 +2,7 @@
 <p align="center">
   
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/opencv_logo_icon_170888.png" height=50px>
+  <a href="https://hack36.com"> <img src="https://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/ec8743316c4244d5ac03d3eb72664ec1/assets/logo/414.png" height=50px> </a>
 </p>
 
 
